@@ -29,19 +29,7 @@
 
 ## 🌿 about me
 
-```txt
- Electronics Engineering student @ VJTI, Mumbai (2nd year, CGPA 7.9)
- Researching Quantum ML — currently exploring Q-KANs & barren plateaus
- Building AlgoSweeped: a full-stack DSA prep platform with 15k+ problems
- Hacktoberfest 2025 contributor · Pull Shark badge earned
- Open to research internships, ML/AI roles, and open-source collabs
-```
-
-- 🎓 **Degree:** B.Tech Electronics Engineering, VJTI (2024–2028)
-- 🔬 **Research Focus:** Quantum Kolmogorov–Arnold Networks (Q-KAN)
-- 🛠️ **Currently Building:** AlgoSweeped + opportunity-finder plugin
-- 🌱 **Learning:** Advanced quantum circuits, distributed systems, LLM fine-tuning
-- 📍 **Mumbai, India**
+<p align="center">whimsical | creative | tech</p>
 
 ---
 
