@@ -110,14 +110,6 @@
 
 ---
 
-## 🌐 3d contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shnavii11/shnavii11/main/profile-3d-contrib/profile-night-green.svg" />
-</p>
-
----
-
 ## 🔬 featured projects
 
 <table>
