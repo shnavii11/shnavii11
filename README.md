@@ -98,13 +98,6 @@
 
 ---
 
-## ⏱️ coding activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🐍 contribution snake
 
 <p align="center">
@@ -177,21 +170,6 @@ Claude Code plugin that parses a resume into a keyword profile and surfaces matc
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shnavii11&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</p>
-
-| 🏅 Achievement | Details |
-|---|---|
-| Pull Shark | Earned via Hacktoberfest 2025 merged PRs |
-| LeetCode 200+ | Solved across Easy / Medium / Hard |
-| MHT-CET 98.9 Percentile | Top 1.1% statewide entrance rank |
-| Research | Chebyshev Q-KAN: +1.85% AUC over baseline |
 
 ---
 
