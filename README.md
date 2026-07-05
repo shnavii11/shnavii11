@@ -30,7 +30,7 @@
 
 ---
 
-## 🐍 contribution snake
+## contribution snake
 
 <p align="center">
   <picture>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔬 featured projects
+## featured projects
 
 <table>
 <tr>
@@ -50,7 +50,7 @@
 
 **[AlgoSweeped](https://github.com/shnavii11/AlgoSweeped)**
 
-Full-stack DSA prep platform aggregating 15,000+ LeetCode/Codeforces problems across a 14-table schema with per-topic readiness scoring, Gemini-LLM recommendations, and Redis caching.
+built a whole app so i'd stop forgetting which leetcode topics i was bad at (all of them).
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=6aad6a)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=6aad6a)
@@ -62,7 +62,7 @@ Full-stack DSA prep platform aggregating 15,000+ LeetCode/Codeforces problems ac
 
 **[Chebyshev Q-KAN](https://github.com/shnavii11/chebyshev-qkan)**
 
-Quantum ML research: benchmarked Chebyshev polynomial Q-KAN vs SineKAN on Higgs Boson classification. Achieved AUC 0.6452 (+1.85% background rejection) with 4-qubit ring CNOT entanglement.
+asked qubits to classify particle physics. they said okay but only if i entangled them first.
 
 ![PennyLane](https://img.shields.io/badge/PennyLane-0d1117?style=flat-square&logo=pennylane&logoColor=6aad6a)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=6aad6a)
@@ -75,7 +75,7 @@ Quantum ML research: benchmarked Chebyshev polynomial Q-KAN vs SineKAN on Higgs 
 
 **[Voice-to-English Pipeline](https://github.com/shnavii11/voice-to-english)**
 
-Multilingual speech-to-English system: CNN + BiLSTM + CTC ASR model with neural machine translation. Achieved 0.21 WER, CUDA-accelerated training.
+taught a neural net to understand accents. it's still better at this than most people.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=6aad6a)
 ![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=flat-square&logo=nvidia&logoColor=6aad6a)
@@ -86,7 +86,7 @@ Multilingual speech-to-English system: CNN + BiLSTM + CTC ASR model with neural 
 
 **[opportunity-finder](https://github.com/shnavii11/opportunity-finder)**
 
-Claude Code plugin that parses a resume into a keyword profile and surfaces matched hackathons + internships from 4 live sources (Devpost, MLH, 17k+ SimplifyJobs listings).
+told an AI to find me opportunities so i wouldn't have to scroll linkedin at 2am. it works.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6aad6a)
 ![Claude](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=6aad6a)
