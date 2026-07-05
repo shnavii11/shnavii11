@@ -18,9 +18,6 @@
   <a href="https://github.com/shnavii11">
     <img src="https://img.shields.io/badge/GitHub-shnavii11-1a2f1a?style=for-the-badge&logo=github&logoColor=a8d8a8&labelColor=0d1117&color=2d5a27" />
   </a>
-  <a href="https://leetcode.com/shnavii11">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20solved-1a2f1a?style=for-the-badge&logo=leetcode&logoColor=a8d8a8&labelColor=0d1117&color=2d5a27" />
-  </a>
 </p>
 
 <p align="center">
@@ -30,59 +27,6 @@
 ## 🌿 about me
 
 <p align="center">whimsical | creative | tech</p>
-
----
-
-## 🌱 tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a8d8a8)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=a8d8a8)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a8d8a8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=a8d8a8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=a8d8a8)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=a8d8a8)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=a8d8a8)
-
-**AI / ML / Quantum**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=a8d8a8)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=a8d8a8)
-![PennyLane](https://img.shields.io/badge/PennyLane-0d1117?style=for-the-badge&logo=pennylane&logoColor=a8d8a8)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a8d8a8)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a8d8a8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=a8d8a8)
-![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=a8d8a8)
-
-**Web / Backend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a8d8a8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=a8d8a8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a8d8a8)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=a8d8a8)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=a8d8a8)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a8d8a8)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a8d8a8)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=a8d8a8)
-![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=a8d8a8)
-![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=a8d8a8)
-
----
-
-## 🌾 github stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shnavii11&show_icons=true&theme=dark&bg_color=0d1117&border_color=2d5a27&icon_color=6aad6a&title_color=a8d8a8&text_color=6aad6a&include_all_commits=true&count_private=true&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnavii11&layout=compact&theme=dark&bg_color=0d1117&border_color=2d5a27&title_color=a8d8a8&text_color=6aad6a&langs_count=8&hide=html,css" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shnavii11&theme=dark&background=0d1117&border=2d5a27&ring=6aad6a&fire=a8d8a8&currStreakLabel=a8d8a8&sideLabels=6aad6a&dates=4a7a4a" />
-</p>
 
 ---
 
